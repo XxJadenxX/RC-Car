@@ -1,0 +1,6 @@
+framework module Pods_Phidget_Robot_UpAndDown {
+  umbrella header "Pods-Phidget_Robot_UpAndDown-umbrella.h"
+
+  export *
+  module * { export * }
+}
